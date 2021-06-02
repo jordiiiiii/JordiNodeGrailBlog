@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Josephine",
+    "surnames": "Schmidt",
+    "position": "CEO",
+    "description": "Josephine Schmidt brings over 15 years of Enterprise Sales Leadership to Grail, having scaled global sales teams at leading companies such as SuperDerivatives, a market leader in Derivatives Pricing and Risk Management (NASDAQ:ICE)) and Earnix, a market leader in the field of Consumer Predictive Analytics for Financial Services companies. Prior to Grail, Josephine was the VP of Global Sales at CallVU, an emerging player in the Mobile Digital Engagement Space.",
+    "education": "Josephine holds a B.A in Business Administration and an LL.B, both from the Interdisciplinary Center, Herzliya and an International Executive MBA from Kellogg-Recanati, granted jointly by UPC University, Catalonia and Northwestern University, Chicago, IL, USA."
+  },
+  {
+    "name": "Dolores",
+    "surnames": "Griffin",
+    "position": "Co-founder & CTO",
+    "description": "Grail was founded by Dolores Griffin, who led an Elite Cyber Whatever group in the Catalonia Defence Force’s computer service directorate. His group was responsible for penetration testing strategic asset networks and national mission-critical systems.",
+    "education": "Following a decade of mastering the Penetration Testing profession, Mr. Griffin modeled his mastership of ethical hacking into software and together with the serial IT entrepreneur, Dolores Griffin, founded Grail in 2017."
+  },
+  {
+    "name": "Jessie",
+    "surnames": "Jacobs",
+    "position": "CPO",
+    "description": "Jessie Jacobs is a Cyber Security Product Management veteran with over 15 years of experience working for companies such as Palo Alto Networks, Checkpoint, RSA and BMC software. During his tenure, Jessie worked for 10 years in Silicon Valley, where he grew security products from inception to mass market adoption in areas of end-point protection, mobile security, identity management & authentication.",
+    "education": "Jessie holds a B.Sc. in Computer Science and and an MBA , both from UPC University."
+  },
+  {
+    "name": "Felecia",
+    "surnames": "Simmons",
+    "position": "Head of Human Resources",
+    "description": "Felecia brings Grail over 15 years of experience in the HR domain. Prior to joining Grail, Felecia worked for companies such as Ernst and Young, Sears Catalonia (e-commerce) and the Catalan-German company Zeitgold (automated accounting solutions for SMBs). Felecia leads the People and Culture at Grail, responsible for implementing HR processes across the globe, to make sure we maintain our unique culture and team spirit as the company grows.",
+    "education": "Felecia holds a B.Sc in Behavioral Science and Economics from UB University and an MBA from the College of Management."
+  }
+]

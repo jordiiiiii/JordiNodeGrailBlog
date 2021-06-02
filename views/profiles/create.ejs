@@ -1,0 +1,27 @@
+<html lang="en">
+<%- include("../partials/head.ejs") %>
+
+<body>
+<%- include("../partials/nav.ejs") %>
+
+<div class="create-blog content">
+    <form action="/profiles" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="surnames">Surnames:</label>
+        <input type="text" id="surnames" name="surnames" required>
+        <label for="position">Position:</label>
+        <input type="text" id="position" name="position" required>
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" required></textarea>
+        <label for="education">Education:</label>
+        <textarea id="education" name="education" required></textarea>
+        <input type="hidden" id="user" name="user" value="<%= user._id %>" required>
+        <button>Submit</button>
+    </form>
+</div>
+
+<%- include("../partials/footer.ejs") %>
+
+</body>
+</html>
